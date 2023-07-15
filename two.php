@@ -1,6 +1,6 @@
 <section id="two" class="wrapper style2 spotlights">
     <section>
-        <a href="#" class="image"><img src="images/drone3.avif" loading="lazy" alt=""
+        <a href="#" class="image"><img src="images/drone3.avif" type="image/avif" alt=""
                 data-position="center center" /></a>
         <div class="content">
             <div class="inner">
@@ -17,7 +17,7 @@
         </div>
     </section>
     <section>
-        <a href="#" class="image"><img src="images/drone1.avif" loading="lazy" alt="" data-position="top center" /></a>
+        <a href="#" class="image"><img src="images/drone1.avif" type="image/avif" alt="" data-position="top center" /></a>
         <div class="content">
             <div class="inner">
                 <h2>Fotografi dan Videografi:</h2>
@@ -36,7 +36,7 @@
         </div>
     </section>
     <section>
-        <a href="#" class="image"><img src="images/drone2.avif" loading="lazy" alt="" data-position="25% 25%" /></a>
+        <a href="#" class="image"><img src="images/drone2.avif" type="image/avif" alt="" data-position="25% 25%" /></a>
         <div class="content">
             <div class="inner">
                 <h2>Penggunaan dalam Bidang Keamanan dan Penegakan Hukum:</h2>
