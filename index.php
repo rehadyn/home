@@ -9,7 +9,8 @@
 <!-- Body -->
 <body class="is-preload">
   <!-- Sidebar -->
- <?php include 'sidebar.php'; ?>
+  <?php include 'sidebar.php'; ?>
+
   <!-- Wrapper -->
   <div id="wrapper">
     <!-- Intro -->
@@ -21,6 +22,7 @@
     <!-- Three -->
     <?php include 'three.php'; ?>
   </div>
+
   <!-- Footer -->
   <?php include 'footer.php'; ?>
 </body>
