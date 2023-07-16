@@ -1,14 +1,20 @@
 <section id="two" class="wrapper style2 spotlights">
     <section>
-        <a href="#" class="image"><img src="images/drone1.webp" loading="lazy" alt=""
-                data-position="center center" /></a>
+        <a href="#" class="image">
+            <picture>
+                <source srcset="images/drone1.avif" type="image/avif">
+                <source srcset="images/drone1.webp" type="image/webp">
+                <source srcset="images/drone1.jpg" type="image/jpeg">
+                <img src="images/drone1.jpg" alt="" data-position="top center" />
+            </picture>
+        </a>
         <div class="content">
             <div class="inner">
-                <h2>Pemetaan dan Pemantauan yang Efisien:</h2>
+                <h2>Efficient Mapping and Monitoring:</h2>
                 <p>
-                    Aerial drone digunakan secara luas dalam pemetaan dan pemantauan lingkungan. Drones mampu
-                    mengumpulkan data visual dan sensorik dari ketinggian yang sulit dijangkau oleh manusia atau
-                    kendaraan darat.
+                    Aerial drones are widely used in environmental mapping and monitoring. Drones are capable of
+                    collecting visual and sensor data from heights that are difficult to reach by humans or ground
+                    vehicles.
                 </p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
@@ -17,17 +23,24 @@
         </div>
     </section>
     <section>
-        <a href="#" class="image"><img src="images/drone2.webp" loading="lazy" alt="" data-position="top center" /></a>
+        <a href="#" class="image">
+            <picture>
+                <source srcset="images/drone2.avif" type="image/avif">
+                <source srcset="images/drone2.webp" type="image/webp">
+                <source srcset="images/drone2.jpg" type="image/jpeg">
+                <img src="images/drone2.jpg" alt="" data-position="top center" />
+            </picture>
+        </a>
         <div class="content">
             <div class="inner">
-                <h2>Fotografi dan Videografi:</h2>
+                <h2>Photography and Videography:</h2>
                 <p>
-                    Aerial drone telah merevolusi industri fotografi dan videografi dengan memberikan akses ke sudut
-                    pandang yang sebelumnya sulit dicapai. Dengan drone, fotografer dan videografer dapat mengambil
-                    gambar atau merekam video dari ketinggian yang berbeda-beda, menciptakan perspektif yang unik dan
-                    menakjubkan. Drone juga memungkinkan pembuatan pemandangan udara yang spektakuler, seperti
-                    pemotretan lanskap, dokumentasi acara olahraga, pembuatan film, atau iklan. Kelebihan ini menjadikan
-                    drone sebagai alat penting dalam industri kreatif dan hiburan.
+                    Aerial drones have revolutionized the photography and videography industry by providing access to
+                    previously inaccessible perspectives. With drones, photographers and videographers can capture
+                    images or record videos from varying altitudes, creating unique and stunning perspectives. Drones
+                    also enable the creation of spectacular aerial views, such as landscape photography, sports event
+                    documentation, filmmaking, or advertising. These advantages make drones an essential tool in the
+                    creative and entertainment industry.
                 </p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
@@ -36,19 +49,25 @@
         </div>
     </section>
     <section>
-        <a href="#" class="image"><img src="images/drone3.webp" loading="lazy" alt="" data-position="25% 25%" /></a>
+        <a href="#" class="image">
+            <picture>
+                <source srcset="images/drone3.avif" type="image/avif">
+                <source srcset="images/drone3.webp" type="image/webp">
+                <source srcset="images/drone3.jpg" type="image/jpeg">
+                <img src="images/drone3.jpg" alt="" data-position="top center" />
+            </picture>
+        </a>
         <div class="content">
             <div class="inner">
-                <h2>Penggunaan dalam Bidang Keamanan dan Penegakan Hukum:</h2>
+                <h2>Utilization in Security and Law Enforcement:</h2>
                 <p>
-                    Aerial drone memiliki peran yang penting dalam bidang keamanan dan penegakan hukum. Drone dapat
-                    digunakan untuk melakukan pengawasan dan pemantauan dalam kegiatan keamanan publik seperti patroli
-                    polisi, pengawasan perbatasan, dan pengamanan acara besar. Mereka dapat memberikan sudut pandang
-                    yang lebih luas dan real-time dari udara, membantu mengidentifikasi dan mengatasi ancaman dengan
-                    lebih efisien. Selain itu, drone juga dapat dilengkapi dengan teknologi canggih seperti kamera
-                    termal, sensor deteksi gas, atau pemindai wajah untuk membantu dalam pencarian orang hilang,
-                    pemantauan kebakaran, atau deteksi kegiatan ilegal. Keberadaan drone dapat memperkuat kehadiran dan
-                    respons dalam menjaga keamanan masyarakat.
+                    Aerial drones play a crucial role in the field of security and law enforcement. Drones can be used
+                    for surveillance and monitoring in public security activities such as police patrols, border
+                    surveillance, and securing large events. They can provide a broader and real-time aerial
+                    perspective, assisting in identifying and addressing threats more efficiently. Moreover, drones can
+                    be equipped with advanced technologies such as thermal cameras, gas detection sensors, or facial
+                    scanners to aid in search and rescue operations, fire monitoring, or detecting illegal activities.
+                    The presence of drones can enhance the presence and response in maintaining public safety.
                 </p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
