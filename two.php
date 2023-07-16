@@ -2,9 +2,6 @@
     <section>
         <a href="#" class="image">
             <picture>
-                <source srcset="images/drone1.avif" type="image/avif">
-                <source srcset="images/drone1.webp" type="image/webp">
-                <source srcset="images/drone1.jpg" type="image/jpeg">
                 <img src="images/drone1.jpg" alt="" data-position="top center" />
             </picture>
         </a>
@@ -16,18 +13,12 @@
                     collecting visual and sensor data from heights that are difficult to reach by humans or ground
                     vehicles.
                 </p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
     <section>
         <a href="#" class="image">
             <picture>
-                <source srcset="images/drone2.avif" type="image/avif">
-                <source srcset="images/drone2.webp" type="image/webp">
-                <source srcset="images/drone2.jpg" type="image/jpeg">
                 <img src="images/drone2.jpg" alt="" data-position="top center" />
             </picture>
         </a>
@@ -42,18 +33,12 @@
                     documentation, filmmaking, or advertising. These advantages make drones an essential tool in the
                     creative and entertainment industry.
                 </p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
     <section>
         <a href="#" class="image">
             <picture>
-                <source srcset="images/drone3.avif" type="image/avif">
-                <source srcset="images/drone3.webp" type="image/webp">
-                <source srcset="images/drone3.jpg" type="image/jpeg">
                 <img src="images/drone3.jpg" alt="" data-position="top center" />
             </picture>
         </a>
@@ -69,9 +54,6 @@
                     scanners to aid in search and rescue operations, fire monitoring, or detecting illegal activities.
                     The presence of drones can enhance the presence and response in maintaining public safety.
                 </p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>

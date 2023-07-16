@@ -2,7 +2,7 @@
     <div class="inner">
         <h2>Get in touch</h2>
         <p>
-       
+
         </p>
         <div class="split style1">
             <section>
@@ -33,23 +33,18 @@
                     <h3>Social</h3>
                     <ul class="icons">
                         <li>
-                            <a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a>
+                            <a href="https://github.com/rehadyn" class="icon brands fa-github"><span
+                                    class="label">GitHub</span></a>
                         </li>
                         <li>
-                            <a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a>
+                            <a href="https://www.instagram.com/rehad_id" class="icon brands fa-instagram"><span
+                                    class="label">Instagram</span></a>
                         </li>
                         <li>
-                            <a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a>
-                        </li>
-                        <li>
-                            <a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
-                        </li>
-                        <li>
-                            <a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a>
+                            <a href="https://www.linkedin.com/in/rehad-id/" class="icon brands fa-linkedin-in"><span
+                                    class="label">LinkedIn</span></a>
                         </li>
                     </ul>
-                    </li>
-                </ul>
             </section>
         </div>
     </div>
